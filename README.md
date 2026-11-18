@@ -1,6 +1,6 @@
 # [Beatriz Prazim] <img src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif" width="80px">
 
-Eu sou <strong>Beatriz Borba Prazim</strong>, <strong>tenho 20 anos e estou iniciando a minha jornada na programação.</strong> 👾
+Eu sou <strong>Beatriz Prazim</strong>, <strong>tenho 21 anos e sou uma desenvolvedora Full Stack.</strong> 👾
 
 - 📖 Atualmente estou aprendendo: <strong>Análise e Desenvolvimento de Dados na faculdade Senac.</strong> 
 - 🎸 Pergunte-me sobre: <strong>Contrabaixo, indie rock, videogames, sobremesas, cultura pop, arte, kpop e séries. </strong>
