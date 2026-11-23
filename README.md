@@ -1,4 +1,4 @@
-# [Beatriz Prazim] <img src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif" width="80px">
+# [Beatriz Prazim] <img src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gifhttps://rejuvenation.wiki.gg/images/849_1.png?ef6ea5" width="80px">
 
 Eu sou <strong>Beatriz Prazim</strong>, <strong>tenho 21 anos e sou uma desenvolvedora Full Stack.</strong> 👾
 
